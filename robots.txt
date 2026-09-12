@@ -1,0 +1,73 @@
+User-Agent: *
+Allow: /
+Disallow: /inquiries
+
+User-Agent: GPTBot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /inquiries
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Claude-User
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Claude-SearchBot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: anthropic-ai
+Allow: /
+Disallow: /inquiries
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Applebot-Extended
+Allow: /
+Disallow: /inquiries
+
+User-Agent: meta-externalagent
+Allow: /
+Disallow: /inquiries
+
+User-Agent: CCBot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Amazonbot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Diffbot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Omgili
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Omgilibot
+Allow: /
+Disallow: /inquiries
+
+User-Agent: Timpibot
+Allow: /
+Disallow: /inquiries
+
+Sitemap: https://ai3613.com/sitemap.xml
