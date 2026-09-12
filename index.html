@@ -52,6 +52,21 @@
       }
       .langs a:hover { border-color: #14181c; }
     </style>
+    <script>
+      /* Router MUST live in <head>: it runs before the first paint, so
+         visitors never see the splash below. When it sat at the end of
+         <body>, browsers drew the "Blue Carbon / Loading…" page for
+         ~1 second before redirecting. */
+      (function () {
+        var target = "/en";
+        try {
+          var lang = (navigator.language || navigator.userLanguage || "").toLowerCase();
+          if (lang.indexOf("ar") === 0) target = "/ar";
+          else if (lang.indexOf("de") === 0) target = "/de";
+        } catch (e) {}
+        window.location.replace(target);
+      })();
+    </script>
   </head>
   <body>
     <div class="wrap">
@@ -66,16 +81,5 @@
     <noscript>
       <meta http-equiv="refresh" content="0;url=/en" />
     </noscript>
-    <script>
-      (function () {
-        var target = "/en";
-        try {
-          var lang = (navigator.language || navigator.userLanguage || "").toLowerCase();
-          if (lang.indexOf("ar") === 0) target = "/ar";
-          else if (lang.indexOf("de") === 0) target = "/de";
-        } catch (e) {}
-        window.location.replace(target);
-      })();
-    </script>
   </body>
 </html>
