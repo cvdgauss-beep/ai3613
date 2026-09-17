@@ -39,3 +39,5 @@
 - Pricing is quotation-based per configuration and market; do not invent prices.
 
 - [140-skewer grill capacity guide](https://ai3613.com/use-cases/charcoal-grill-140-skewers-at-once): commercial capacity, weight, ventilation and planning guidance for restaurant and catering buyers.
+
+- [Commercial charcoal grill manufacturer guide](https://ai3613.com/resources/guides/smokeless-charcoal-grill-manufacturer-restaurants): how restaurants and importers should evaluate manufacturers, capacity, samples, power, ventilation and spare parts.
