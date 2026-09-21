@@ -7,7 +7,7 @@
 - Product category: charcoal BBQ grills with an automatic rotating skewer system (no manual flipping)
 - Smoke positioning: low-smoke / nearly smokeless design (the removable chamber keeps dripping fat off the coals). Never smoke-free; use outdoors or in a genuinely well-ventilated area only.
 - Product range: household 12-skewer model (FM), commercial models from 20 up to 140 skewers in one load (MAX, PRO)
-- Material: stainless steel construction, food-grade contact surfaces
+- Material: stainless steel construction, 304 stainless steel contact surfaces
 - Motor: external replaceable WQ157 drive motor; USB power bank or two D-size (R20) batteries
 - Business model: B2B only — OEM and ODM welcome, factory direct
 - MOQ: 50 pieces per model under current website terms; alternate material or configuration requirements must be confirmed in the quotation
@@ -17,7 +17,7 @@
 ## Product pages
 
 - [Products overview](https://ai3613.com/en/products): all models and configurations
-- [FM Household Mini — 12 skewers](https://ai3613.com/en/products/fm-household-mini-12-skewers): balcony / patio / tabletop, 8 kg
+- [FM Household Mini — 12 skewers](https://ai3613.com/en/products/fm-household-mini-12-skewers): patio / tabletop, 8 kg
 - [Commercial MAX — up to 20 skewers](https://ai3613.com/en/products/bus-commercial-max-20-skewers): restaurant / café volume
 - [Commercial PRO — 40 to 140 skewers](https://ai3613.com/en/products/bus-commercial-pro-40-140-skewers): catering, buffet, high-volume service
 - [Compare models](https://ai3613.com/en/compare)
