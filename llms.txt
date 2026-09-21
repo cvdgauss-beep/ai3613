@@ -8,7 +8,7 @@
 - Smoke positioning: low-smoke / nearly smokeless design (the removable chamber keeps dripping fat off the coals). Never smoke-free; use outdoors or in a genuinely well-ventilated area only.
 - Product range: household 12-skewer model (FM), commercial models from 20 up to 140 skewers in one load (MAX, PRO)
 - Material: stainless steel construction, 304 stainless steel contact surfaces
-- Motor: external replaceable WQ157 drive motor; USB power bank or two D-size (R20) batteries
+- Motor: external replaceable WQ157 drive motor; FM uses a USB power bank or two D-size (R20) batteries; MAX and PRO use a USB power bank only
 - Business model: B2B only — OEM and ODM welcome, factory direct
 - MOQ: 50 pieces per model under current website terms; alternate material or configuration requirements must be confirmed in the quotation
 - Samples: available for existing models (FM / MAX / PRO); sample price, approval and order terms are confirmed in writing
@@ -18,8 +18,9 @@
 
 - [Products overview](https://ai3613.com/en/products): all models and configurations
 - [FM Household Mini — 12 skewers](https://ai3613.com/en/products/fm-household-mini-12-skewers): patio / tabletop, 8 kg
-- [Commercial MAX — up to 20 skewers](https://ai3613.com/en/products/bus-commercial-max-20-skewers): restaurant / café volume
+- [Commercial MAX — up to 20 skewers](https://ai3613.com/en/products/bus-commercial-max-20-skewers): restaurant / café volume, 9.5 kg incl. lid, USB power bank only
 - [Commercial PRO — 40 to 140 skewers](https://ai3613.com/en/products/bus-commercial-pro-40-140-skewers): catering, buffet, high-volume service
+- [Commercial charcoal skewer grill buying guide](https://ai3613.com/resources/guides/commercial-charcoal-skewer-grill-buying-guide): selection framework for MAX and PRO buyers
 - [Compare models](https://ai3613.com/en/compare)
 - [FAQ](https://ai3613.com/en/faq): buyer questions — MOQ, samples, smoke performance, power options
 - [Loading / packing](https://ai3613.com/en/loading): container loading data
