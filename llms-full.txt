@@ -496,7 +496,7 @@ Because a standard cycle takes about 5‑6 minutes, multi-round events can use f
 
 The body, grates, oil tray and skewers use 304 stainless steel for durability and straightforward cleaning. This model can be supplied with a protective metal lid at no extra cost: it keeps dust, insects and droplets from people talking nearby off the food while it cooks, and it holds heat around the load.
 
-Designed for high-volume catering and buffet service, this charcoal grill is supplied in 40, 60, 80, 100, 120 or 140 skewer configurations. A 20-skewer commercial unit is the base module, so larger configurations add capacity across joined modules; actual throughput still depends on the menu, loading workflow and service window. The trade-off is weight, and the largest units need a fixed position. Charcoal is used as fuel, so the unit must never be operated in a closed room and must be kept clear of curtains, upholstery and other flammable surfaces. A 140-skewer unit weighs roughly 115 kg, so it needs a solid floor and we recommend a dedicated load-bearing stand or frame; weight figures are approximate and confirmed per configuration. Sizes are built in multiples of the 20-skewer module (40, 60, 80, 100, 120, 140), so odd counts such as 25, 30 or 35 skewers are not available.
+Designed for high-volume catering and buffet service, this charcoal grill is supplied in 40, 60, 80, 100, 120 or 140 skewer configurations. A 20-skewer commercial unit is the base module, so larger configurations add capacity across joined modules; actual throughput still depends on the menu, loading workflow and service window. The trade-off is weight, and the largest units need a fixed position. Charcoal is used as fuel, so the unit must never be operated in a closed room and must be kept clear of curtains, upholstery and other flammable surfaces. Larger configurations are heavier, so they need a solid floor and we recommend a dedicated load-bearing stand or frame; weight figures are approximate and confirmed per configuration. Sizes are built in multiples of the 20-skewer module (40, 60, 80, 100, 120, 140), so odd counts such as 25, 30 or 35 skewers are not available.
 
 Full OEM and ODM service is available for this model, including custom branding, colour, packaging and manual options, subject to quotation.
 
@@ -540,7 +540,7 @@ USB power bank only
 
 Net Weight
 
-16 kg at 40 skewers (incl. lid); approx. 115 kg at 140 skewers, configuration dependent
+16 kg at 40 skewers (incl. lid); exact weight for larger configurations is confirmed per configuration
 
 Package Size
 
@@ -1309,7 +1309,7 @@ The MAX has an optional protective metal lid at no extra cost according to curre
 
 ### High-Volume Restaurants, Events and Catering
 
-The BUS Commercial PRO is supplied in 40, 60, 80, 100, 120 and 140-skewer configurations. The 40-skewer configuration weighs 16 kg including the lid and uses a 74 x 42 x 32 cm package. Larger sizes are quoted on request and can weigh approximately 115 kg at 140 skewers, depending on configuration.
+The BUS Commercial PRO is supplied in 40, 60, 80, 100, 120 and 140-skewer configurations. The 40-skewer configuration weighs 16 kg including the lid and uses a 74 x 42 x 32 cm package. Larger sizes are quoted on request; exact weight is confirmed per configuration.
 
 The PRO is designed for high-volume restaurants, events, catering and buffet service. Larger configurations are built by joining 20-skewer modules side by side. That modular approach allows the operator to scale capacity, but it also increases weight, footprint and the need for a dedicated load-bearing position.
 
@@ -1786,7 +1786,7 @@ A general description such as “automatic rotation” is not enough. The buyer 
 
 ### 2. Are the dimensions and weights configuration-specific?
 
-Product weights can change with capacity, lid, stand and accessories. Blue Carbon lists the PRO 40-skewer configuration at 16 kg including the lid and about 115 kg at 140 skewers. The 40-skewer package is listed at 74 x 42 x 32 cm.
+Product weights can change with capacity, lid, stand and accessories. Blue Carbon lists the PRO 40-skewer configuration at 16 kg including the lid; the exact weight of larger configurations is confirmed per configuration. The 40-skewer package is listed at 74 x 42 x 32 cm.
 
 Ask for the exact weight and carton dimensions of the configuration being quoted. Do not rely on a generic “commercial grill” weight.
 
@@ -1985,7 +1985,7 @@ Page title: 140-Skewer Charcoal Grill: Capacity and Buyer Guide
 
 Compare commercial charcoal grill capacities up to 140 skewers, including weight, layout, ventilation and maintenance planning for restaurant buyers.
 
-A 140-skewer charcoal grill is a fixed commercial unit built for one-pass batch service. The Blue Carbon BUS Commercial PRO supports 40, 60, 80, 100, 120 and 140 skewers by joining 20-skewer base modules. The 140-skewer version is approximately 115 kg, needs a solid floor and is not a portable household grill.
+A 140-skewer charcoal grill is a fixed commercial unit built for one-pass batch service. The Blue Carbon BUS Commercial PRO supports 40, 60, 80, 100, 120 and 140 skewers by joining 20-skewer base modules. The 140-skewer version is a heavy fixed-position unit, needs a solid floor and is not a portable household grill.
 
 ## What Does “140 Skewers at Once” Mean?
 
@@ -2041,7 +2041,7 @@ Highest weight, storage and loading requirements
 
 The Blue Carbon PRO range uses a 20-skewer module as its base. Configurations are available in 40, 60, 80, 100, 120 and 140 skewers. Odd counts such as 25, 30 or 35 are not part of the stated range.
 
-The 40-skewer configuration has a stated net weight of 16 kg including the lid and a package size of 74 x 42 x 32 cm. The 140-skewer configuration is approximately 115 kg and should be treated as a fixed-position unit. Weight and packing details for other configurations should be confirmed in the final quotation.
+The 40-skewer configuration has a stated net weight of 16 kg including the lid and a package size of 74 x 42 x 32 cm. The 140-skewer configuration should be treated as a fixed-position unit. Weight and packing details for other configurations should be confirmed in the final quotation.
 
 ## Why a 140-Skewer Charcoal Grill Is Not for Every Kitchen
 
@@ -2049,7 +2049,7 @@ The largest model solves a batch-size problem, but it also creates installation 
 
 ### 1. Floor loading and stand design
 
-A 140-skewer unit is approximately 115 kg before food, charcoal, accessories and ash. It needs a solid floor and a load-bearing stand or frame selected for the final configuration. A normal folding table is not an appropriate assumption.
+A 140-skewer unit is heavy before food, charcoal, accessories and ash are added. It needs a solid floor and a load-bearing stand or frame selected for the final configuration. A normal folding table is not an appropriate assumption.
 
 ### 2. Service aisle and loading access
 
@@ -2115,7 +2115,7 @@ For 60-skewer service, the smaller PRO configuration may be enough. For a cafe o
 
 ### Can a 140-skewer charcoal grill be moved by two people?
 
-No safe two-person movement assumption should be made. The 140-skewer configuration is approximately 115 kg, and the final weight may be higher with the stand, lid, food and accessories. Plan lifting equipment or professional installation and use a load-bearing position.
+No safe two-person movement assumption should be made. The 140-skewer configuration is heavy, and the final weight may be higher with the stand, lid, food and accessories. Plan lifting equipment or professional installation and use a load-bearing position.
 
 ### Does a 140-skewer grill produce no visible smoke?
 
